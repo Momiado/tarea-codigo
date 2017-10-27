@@ -1,15 +1,15 @@
 # tarea-codigo
 Tarea T_T
 
-<!DOCTYPE html>
+/*<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Objetos en JS</title>
+  <title>POO</title>
 </head>
 <body>
-  <h1>Objetos JS</h1>
+  <h1>Cuyo</h1>
   <p>En JavaScript podemos crear objetos de 2 formas:</p>
   <ol>
     <li>Como <b>Objetos Literales</b>, los cuales no son reutilizables.</li>
